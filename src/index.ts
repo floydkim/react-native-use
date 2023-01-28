@@ -5,7 +5,6 @@ export { default as createStateContext } from './factory/createStateContext';
 export { default as useAsync } from './useAsync';
 export { default as useAsyncFn } from './useAsyncFn';
 export { default as useAsyncRetry } from './useAsyncRetry';
-export { default as useAudio } from './useAudio';
 export { default as useBattery } from './useBattery';
 export { default as useBeforeUnload } from './useBeforeUnload';
 export { default as useBoolean } from './useBoolean';
