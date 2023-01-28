@@ -23,7 +23,6 @@ export { default as useGeolocation } from './useGeolocation';
 export { default as useGetSet } from './useGetSet';
 export { default as useGetSetState } from './useGetSetState';
 export { default as useHoverDirty } from './useHoverDirty';
-export { default as useIntersection } from './useIntersection';
 export { default as useInterval } from './useInterval';
 export { default as useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect';
 export { default as useKey } from './useKey';
