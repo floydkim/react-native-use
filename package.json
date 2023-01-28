@@ -12,7 +12,7 @@
   "types": "lib/index.d.ts",
   "typings": "lib/index.d.ts",
   "scripts": {
-    "start": "yarn storybook",
+    "start": "",
     "test": "jest --maxWorkers 2",
     "test:ssr": "jest --maxWorkers 2 --config ./jest.config.node.ts",
     "test:watch": "jest --watch",
@@ -23,11 +23,6 @@
     "build:cjs": "tsc",
     "build:es": "tsc -m esNext --outDir esm",
     "build": "yarn build:cjs && yarn build:es",
-    "clean": "rimraf lib storybook-static esm",
-    "storybook": "start-storybook -p 6008",
-    "storybook:build": "build-storybook",
-    "storybook:upload": "gh-pages -d storybook-static --git \"$(which git)\"",
-    "storybook:clean": "rimraf storybook-static",
     "release": "semantic-release"
   },
   "husky": {
@@ -110,7 +105,6 @@
     "rebound": "0.1.0",
     "redux-logger": "3.0.6",
     "redux-thunk": "2.4.2",
-    "rimraf": "3.0.2",
     "rxjs": "7.5.7",
     "semantic-release": "17.4.7",
     "ts-jest": "26.5.6",
