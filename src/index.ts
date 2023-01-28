@@ -8,7 +8,6 @@ export { default as useAsyncRetry } from './useAsyncRetry';
 export { default as useBattery } from './useBattery';
 export { default as useBeforeUnload } from './useBeforeUnload';
 export { default as useBoolean } from './useBoolean';
-export { default as useClickAway } from './useClickAway';
 export { default as useCounter } from './useCounter';
 export { default as useCustomCompareEffect } from './useCustomCompareEffect';
 export { default as useDebounce } from './useDebounce';

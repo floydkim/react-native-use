@@ -72,7 +72,6 @@
     <br/>
     <br/>
 - [**UI**](./docs/UI.md)
-  - [`useClickAway`](./docs/useClickAway.md) &mdash; triggers callback when user clicks outside target area.
   - [`useDrop` and `useDropArea`](./docs/useDrop.md) &mdash; tracks file, link and copy-paste drops.
   - [`useSlider`](./docs/useSlider.md) &mdash; provides slide behavior over any HTML element. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/ui-useslider--demo)
   - [`useSpeech`](./docs/useSpeech.md) &mdash; synthesizes speech from a text string. [![][img-demo]](https://codesandbox.io/s/n090mqz69m)
