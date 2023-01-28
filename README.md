@@ -93,7 +93,6 @@
   - [`useBeforeUnload`](./docs/useBeforeUnload.md) &mdash; shows browser alert when user try to reload or close the page.
   - [`useDebounce`](./docs/useDebounce.md) &mdash; debounces a function. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/side-effects-usedebounce--demo)
   - [`useError`](./docs/useError.md) &mdash; error dispatcher. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/side-effects-useerror--demo)
-  - [`useFavicon`](./docs/useFavicon.md) &mdash; sets favicon of the page.
   - [`useLocalStorage`](./docs/useLocalStorage.md) &mdash; manages a value in `localStorage`.
   - [`useLockBodyScroll`](./docs/useLockBodyScroll.md) &mdash; lock scrolling of the body element.
   - [`useRafLoop`](./docs/useRafLoop.md) &mdash; calls given function inside the RAF loop.

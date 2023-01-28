@@ -19,7 +19,6 @@ export { default as useEffectOnce } from './useEffectOnce';
 export { default as useEnsuredForwardedRef, ensuredForwardRef } from './useEnsuredForwardedRef';
 export { default as useEvent } from './useEvent';
 export { default as useError } from './useError';
-export { default as useFavicon } from './useFavicon';
 export { default as useGeolocation } from './useGeolocation';
 export { default as useGetSet } from './useGetSet';
 export { default as useGetSetState } from './useGetSetState';
