@@ -38,7 +38,6 @@ if (!window.ResizeObserver) {
 
 ## Related hooks
 
-- [useSize](./useSize.md)
 
 
 [resize-observer]: https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver
