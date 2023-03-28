@@ -61,7 +61,6 @@ export { default as useUpsert } from './useUpsert';
 export { default as useVideo } from './useVideo';
 export { default as useStateValidator } from './useStateValidator';
 export { useMultiStateValidator } from './useMultiStateValidator';
-export { default as useMeasure } from './useMeasure';
 export { default as usePinchZoom } from './usePinchZoom';
 export { useRendersCount } from './useRendersCount';
 export { useFirstMountState } from './useFirstMountState';
