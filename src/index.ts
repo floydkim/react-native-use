@@ -26,7 +26,6 @@ export { default as useLifecycles } from './useLifecycles';
 export { default as useList } from './useList';
 export { default as useLogger } from './useLogger';
 export { default as useMap } from './useMap';
-export { default as useMedia } from './useMedia';
 export { useMediatedState } from './useMediatedState';
 export { default as useMethods } from './useMethods';
 export { default as useMount } from './useMount';

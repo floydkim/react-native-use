@@ -44,7 +44,6 @@
 </div>
 
 - [**Sensors**](./docs/Sensors.md)
-  - [`useMedia`](./docs/useMedia.md) &mdash; tracks state of a CSS media query. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usemedia--demo)
   - [`usePinchZoom`](./docs/usePinchZoom.md) &mdash; tracks pointer events to detect pinch zoom in and out status. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usePinchZoom--demo)
     <br/>
     <br/>
