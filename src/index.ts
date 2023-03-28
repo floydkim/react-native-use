@@ -24,7 +24,6 @@ export { default as useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffec
 export { default as useLatest } from './useLatest';
 export { default as useLifecycles } from './useLifecycles';
 export { default as useList } from './useList';
-export { default as useLocalStorage } from './useLocalStorage';
 export { default as useLogger } from './useLogger';
 export { default as useMap } from './useMap';
 export { default as useMedia } from './useMedia';
