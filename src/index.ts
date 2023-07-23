@@ -58,7 +58,6 @@ export { default as useUnmountPromise } from './useUnmountPromise';
 export { default as useUpdate } from './useUpdate';
 export { default as useUpdateEffect } from './useUpdateEffect';
 export { default as useUpsert } from './useUpsert';
-export { default as useVideo } from './useVideo';
 export { default as useStateValidator } from './useStateValidator';
 export { useMultiStateValidator } from './useMultiStateValidator';
 export { default as usePinchZoom } from './usePinchZoom';
