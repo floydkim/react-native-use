@@ -43,10 +43,6 @@
   <br />
 </div>
 
-- [**Sensors**](./docs/Sensors.md)
-  - [`usePinchZoom`](./docs/usePinchZoom.md) &mdash; tracks pointer events to detect pinch zoom in and out status. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usePinchZoom--demo)
-    <br/>
-    <br/>
 - [**UI**](./docs/UI.md)
   - [`useSpeech`](./docs/useSpeech.md) &mdash; synthesizes speech from a text string. [![][img-demo]](https://codesandbox.io/s/n090mqz69m)
     <br/>

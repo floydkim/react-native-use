@@ -59,7 +59,6 @@ export { default as useUpdate } from './useUpdate';
 export { default as useUpdateEffect } from './useUpdateEffect';
 export { default as useStateValidator } from './useStateValidator';
 export { useMultiStateValidator } from './useMultiStateValidator';
-export { default as usePinchZoom } from './usePinchZoom';
 export { useRendersCount } from './useRendersCount';
 export { useFirstMountState } from './useFirstMountState';
 export { default as useSet } from './useSet';
