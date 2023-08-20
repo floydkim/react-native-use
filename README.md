@@ -43,10 +43,6 @@
   <br />
 </div>
 
-- [**UI**](./docs/UI.md)
-  - [`useSpeech`](./docs/useSpeech.md) &mdash; synthesizes speech from a text string. [![][img-demo]](https://codesandbox.io/s/n090mqz69m)
-    <br/>
-    <br/>
 - [**Animations**](./docs/Animations.md)
   - [`useRaf`](./docs/useRaf.md) &mdash; re-renders component on each `requestAnimationFrame`.
   - [`useInterval`](./docs/useInterval.md) &mdash; re-renders component on a set interval using `setInterval`.

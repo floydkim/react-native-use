@@ -42,7 +42,6 @@ export { default as useRafState } from './useRafState';
 export { default as useSessionStorage } from './useSessionStorage';
 export { default as useSetState } from './useSetState';
 export { default as useShallowCompareEffect } from './useShallowCompareEffect';
-export { default as useSpeech } from './useSpeech';
 // not exported because of peer dependency
 // export { default as useSpring } from './useSpring';
 export { useStateWithHistory } from './useStateWithHistory';
