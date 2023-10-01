@@ -50,7 +50,6 @@ export { default as useThrottle } from './useThrottle';
 export { default as useThrottleFn } from './useThrottleFn';
 export { default as useTimeout } from './useTimeout';
 export { default as useTimeoutFn } from './useTimeoutFn';
-export { default as useTitle } from './useTitle';
 export { default as useToggle } from './useToggle';
 export { default as useUnmount } from './useUnmount';
 export { default as useUnmountPromise } from './useUnmountPromise';
