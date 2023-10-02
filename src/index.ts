@@ -39,7 +39,6 @@ export { default as useQueue } from './useQueue';
 export { default as useRaf } from './useRaf';
 export { default as useRafLoop } from './useRafLoop';
 export { default as useRafState } from './useRafState';
-export { default as useSessionStorage } from './useSessionStorage';
 export { default as useSetState } from './useSetState';
 export { default as useShallowCompareEffect } from './useShallowCompareEffect';
 // not exported because of peer dependency
