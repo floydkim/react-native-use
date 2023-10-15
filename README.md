@@ -1,30 +1,22 @@
 <div align="center">
+    <br/>
+    <br/>
   <h1>
-    <br/>
-    <br/>
-    👍
+    📱
     <br />
-    react-use
-    <br />
-    <br />
-    <br />
+    react-use-native
     <br />
   </h1>
+    <h5>The <a href="https://www.npmjs.com/package/react-use">react-use</a> fork for react-native</h5>
+    <br />
+It doesn't depend on 'react-dom'.
+    <br />
+A better choice for React Native development for native apps only.
+    <br />
+    <br />
   <sup>
     <br />
     <br />
-    <a href="https://www.npmjs.com/package/react-use">
-       <img src="https://img.shields.io/npm/v/react-use.svg" alt="npm package" />
-    </a>
-    <a href="https://circleci.com/gh/streamich/react-use">
-      <img src="https://img.shields.io/circleci/project/github/streamich/react-use/master.svg" alt="CircleCI master" />
-    </a>
-    <a href="https://www.npmjs.com/package/react-use">
-      <img src="https://img.shields.io/npm/dm/react-use.svg" alt="npm downloads" />
-    </a>
-    <a href="http://streamich.github.io/react-use">
-      <img src="https://img.shields.io/badge/demos-🚀-yellow.svg" alt="demos" />
-    </a>
     <br />
     Collection of essential <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a>.</em>
     <em>Port of</em> <a href="https://github.com/streamich/libreact"><code>libreact</code></a>.
@@ -35,7 +27,7 @@
   <br />
   <br />
   <br />
-  <pre>npm i <a href="https://www.npmjs.com/package/react-use">react-use</a></pre>
+  <pre>npm i <a href="https://www.npmjs.com/package/react-use-native">react-use-native</a></pre>
   <br />
   <br />
   <br />
